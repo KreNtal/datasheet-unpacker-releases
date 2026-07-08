@@ -1,6 +1,6 @@
 # DataSheet Unpacker - Freeware License
 
-Copyright (c) 2026 Roberto Darko. All rights reserved.
+Copyright (c) 2026 KreNtal. All rights reserved.
 
 This license applies to the compiled binary (.exe) distributed in this
 repository. It does not grant any rights to source code, which is not
