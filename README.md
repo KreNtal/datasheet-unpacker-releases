@@ -9,7 +9,7 @@ is pixel-precise — including rotated sprites and multi-image atlases.
 
 ## Download
 
-Grab the latest `DataSheet Unpacker.exe` from the
+Grab the latest `DataSheetUnpacker.exe` from the
 [Releases](https://github.com/KreNtal/datasheet-unpacker-releases/releases)
 page. No installation needed — just run it.
 
@@ -18,17 +18,12 @@ you.
 
 ## Supported formats
 
-Currently supporting:
+**Currently supporting**:
 - Spine2D spritesheets (via *.atlas*)
 - TexturePacker spritesheets  (via *.json*)
 - Pixi.js fonts (via *.xml*)
 
 **Spritesheet image**: `.png`, `.webp`, `.jpg`/`.jpeg`, `.bmp`, `.tga`, `.tiff`
-
-**Data file**:
-- **JSON** (TexturePacker-style `frames` export, array or dictionary form)
-- **XML** (BMFont-style `chars` export)
-- **`.atlas`** (libGDX texture atlas)
 
 You can also load multiple data files and images at once — DataSheet
 Unpacker matches each data file to its image automatically (using the
